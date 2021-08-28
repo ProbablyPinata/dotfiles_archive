@@ -1,1 +1,1 @@
-# dotfiles
+# Dotfiles for [this]() rice, enjoy!
